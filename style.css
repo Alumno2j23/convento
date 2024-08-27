@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+ background-color: #f7fdd1;
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titulo p{
+  font-size: 50px;
+  color: #405D72;
+  font-weight: bold;
+}
+.titulo img{
+  width: 500px;
+  margin: 50px;
+}
+
